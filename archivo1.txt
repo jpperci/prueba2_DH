@@ -2,7 +2,7 @@
 
 <head><title>home</title> </head>
 
-<body><h2>bienvenidos</h2></body>
+<body><h2>bienvenidos a mi sitio web</h2></body>
 
 
 </html>
